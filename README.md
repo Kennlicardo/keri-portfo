@@ -82,19 +82,16 @@ If you found this useful:
 
 - Please **star** the repository (it helps a lot)
 - Share it with a friend who needs a portfolio template
+- Sponsor via the **Sponsor** button on GitHub (if available in your region)
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/red1-for-hek/
 
 ---
 
 ## 🪪 License
 
 This project is open source and available under the **MIT License**. See [LICENSE](LICENSE).
-
----
-
-## ☕ Buy Me a Coffee
-
-<div>
-  <a href="https://buymeacoffee.com/redoyanul1y" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</div>
