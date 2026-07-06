@@ -1,191 +1,180 @@
 export const config = {
     developer: {
-        name: "Redoyanul",
-        fullName: "Redoyanul Haque",
-        title: "AI & Full-Stack Developer",
-        description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+        name: "Kenn Licardo",
+        fullName: "Kenn Licardo",
+        title: "Senior Software Engineer | Agentic Engineer",
+        description: "Senior Software Engineer with 10+ years of experience building scalable cloud systems, APIs, and data pipelines on AWS and Azure. Strong in microservices, serverless, and CI/CD. Focused on high-performance, secure, and reliable enterprise solutions."
     },
     social: {
-        github: "red1-for-hek",
-        email: "redoyanul1234@gmail.com",
-        location: "Bangladesh"
+        github: "Kennlicardo",
+        email: "licardokenn@gmail.com",
+        location: "Philippines"
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Full-Stack Developer from Bangladesh. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "I am a Senior Software Engineer with over 10 years of experience building scalable cloud-based backend systems, APIs, and data pipelines on AWS and Azure, with strong expertise in microservices, serverless architecture, and CI/CD, focused on delivering secure, high-performance, and reliable enterprise solutions."
     },
     experiences: [
         {
-            position: "Learning Something New",
-            company: "Self-Development",
-            period: "2025 - Present",
-            location: "Bangladesh",
-            description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
+            position: "Senior Software Engineer | Agentic AI Engineer",
+            company: "Oracle",
+            period: "Sep 2023 - Feb 2026",
+            location: "Makati City, Metro Manila, Philippines/Remote",
+            description: "Contributed to a cloud-native Open Banking platform enabling secure, consent-based integration between core banking systems and third-party fintech applications, supporting scalable and reliable financial data exchange across a distributed banking ecosystem under strict regulatory controls. Enhanced platform intelligence by supporting AI-driven assistance capabilities for developers and operations teams, improving troubleshooting efficiency, reducing integration friction, and strengthening overall system observability and user experience for external banking partners.",
             responsibilities: [
-                "Researching cutting-edge AI and ML technologies",
-                "Experimenting with new frameworks and tools",
-                "Contributing to open-source projects",
-                "Building innovative personal projects"
-            ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
-        },
-        {
-            position: "AI Engineer",
-            company: "Freelance & Projects",
-            period: "2025",
-            location: "Bangladesh",
-            description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
-            responsibilities: [
-                "Building AI-powered chatbots and conversational agents",
-                "Developing machine learning models with TensorFlow and PyTorch",
-                "Working with LLMs and transformer architectures",
-                "Creating autonomous AI systems and automation tools"
-            ],
-            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
-        },
-        {
-            position: "Full-Stack Developer",
-            company: "Freelance & Projects",
-            period: "2024",
-            location: "Bangladesh",
-            description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
-            responsibilities: [
-                "Developing full-stack web applications using React and Node.js",
-                "Building RESTful APIs and integrating databases",
-                "Creating responsive and interactive user interfaces",
-                "Deploying and maintaining web applications"
+                "Designed and developed conversational flows and chatbot experiences using Vertex AI, Gemini, Google Dialogflow CX, and Amazon Lex, aligning with enterprise Conversational AI best practices.",
+                "Built and optimized intent recognition models and training datasets, improving NLP accuracy, response relevance, and overall user experience.",
+                "Architected and implemented context-aware conversational systems, integrating chatbots with backend services, APIs, and enterprise data sources.",
+                "Developed RESTful microservices using Node.js (TypeScript) and Java (Spring Boot) to support conversational workflows and realtime interactions.",
+                "Integrated conversational platforms with external APIs, cloud functions, and enterprise systems, enabling seamless data exchange and automation.",
+                "Designed and implemented end-to-end chatbot solutions, including dialog management, backend orchestration, and response generation.",
+                "Applied NLP and Conversational AI best practices, including intent tuning, entity recognition, and continuous training data improvement.",
+                "Deployed and managed applications on container platforms (Docker, Kubernetes/OpenShift), ensuring scalability and reliability of conversational services.",
+                "Performed debugging, performance tuning, and optimization of conversational systems and backend services.",
+                "Developed and executed unit and integration tests using JUnit, Selenium, and Pytest to ensure high-quality chatbot and API performance.",
+                "Utilized tools such as Postman, Swagger, and Splunk for API testing, monitoring, and debugging.",
+                "Collaborated with product, UI/UX, and backend teams to design user-centric conversational experiences and align technical solutions with business requirements.",
+                "Continuously improved conversational systems by analyzing user interactions and refining flows, intents, and responses.",
+                "Followed Agile methodologies and enterprise architecture patterns to deliver scalable, maintainable, and production-ready solutions.",
             ],
             technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
         },
         {
-            position: "Python Developer",
-            company: "Self-Taught & Projects",
-            period: "2023",
-            location: "Bangladesh",
-            description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
+            position: "Software Engineer | AI/ML Developer",
+            company: "Accenture Australia",
+            period: "Dec 2020 - Sep 2023",
+            location: "Taguig City, Philippine / Remote",
+            description: "Contributed to a national-scale COVID-19 vaccine logistics platform supporting real-time tracking of vaccine distribution, inventory updates, and supply chain coordination across clinics, pharmacies, and healthcare units during the pandemic. Worked within a large Agile team to support backend services and data processing systems ensuring timely and reliable handling of high-volume, mission-critical public health information.",
             responsibilities: [
-                "Learning Python programming and core concepts",
-                "Building automation scripts and Discord bots",
-                "Exploring data structures and algorithms",
-                "Participating in competitive programming"
+                "Designed and implemented context-aware conversational experiences, leveraging structured data and knowledge graph insights to improve chatbot response accuracy and relevance.",
+                "Integrated Conversational AI platforms with backend services and enterprise data sources, enabling dynamic, data-driven interactions within chatbot and voice workflows.",
+                "Designed and implemented knowledge graph architectures (property graph and RDF) to model relationships between entities, supporting advanced querying and contextual understanding in conversational systems.",
+                "Built and optimized data models and ontologies to represent business entities, improving data consistency and enabling scalable integration with conversational applications.",
+                "Developed and executed graph queries (Cypher, SPARQL) to support real-time data retrieval and enhance conversational context and personalization.",
+                "Integrated structured and semi-structured data from enterprise systems and external APIs, ensuring high-quality data for conversational and backend services.",
+                "Applied machine learning and NLP techniques to enhance conversational understanding, including user behavior analysis, semantic search, and response optimization.",
+                "Implemented embedding-based retrieval and vector search to improve contextual responses in conversational flows.",
+                "Deployed applications using Docker and Kubernetes/OpenShift, ensuring scalability and reliability of backend and conversational services.",
+                "Developed and tested services using JUnit, Selenium, and API testing tools (Postman, Swagger) to ensure high-quality and robust system performance.",
+                "Collaborated with product managers, UI/UX designers, and engineering teams to design and deliver user-centric conversational and enterprise solutions.",
+                "Followed Agile methodologies and enterprise architecture patterns to build scalable, maintainable, and production-ready systems.",
             ],
-            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
+            technologies: ["Python", "Automation", "Postman", "Swagger", "JUnit"]
         },
         {
-            position: "Graphic Designer",
-            company: "Freelance",
-            period: "2022",
-            location: "Bangladesh",
-            description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
+            position: "Software Developer",
+            company: "Globe Telecom",
+            period: "Jul 2016 - Dec 2020",
+            location: "Taguig City, Philippines",
+            description: "Contributed to SaaS product initiatives under Globe’s venture building arm, supporting enterprise-grade platforms focused on subscription-based services and customer engagement solutions, including requirements around multi-tenant business workflows, digital loyalty systems, and customer lifecycle management used by corporate clients across different industries.",
             responsibilities: [
-                "Designing logos and brand identity materials",
-                "Creating social media graphics and banners",
-                "Working with clients on creative projects",
-                "Learning design principles and visual aesthetics"
+                "DDesigned and implemented conversational logic and recommendation capabilities within chatbot experiences, improving personalization and user engagement.",
+                "Built and optimized intent recognition and NLP models, enhancing chatbot understanding of user behavior and context.",
+                "Developed backend services and RESTful APIs using Node.js (TypeScript) and Java (Spring Boot) to support real-time recommendations and conversational workflows.",
+                "Implemented data preprocessing and feature engineering pipelines using Python, Pandas, and NumPy to support both conversational AI and recommendation use cases.",
+                "Applied machine learning techniques (Scikit-learn, TensorFlow) for user behavior analysis, text classification, and improving conversational response quality.",
+                "Conducted A/B testing and performance analysis to evaluate conversational flows and recommendation effectiveness, driving continuous improvements.",
+                "Assisted in developing and deploying machine learning models using Python and TensorFlow for predictive analytics and data classification tasks.",
+                "Collaborated with cross-functional teams including product managers and data scientists to translate business requirements into scalable machine learning solutions."
             ],
-            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
+            technologies: ["Java (Spring Boot)", "Illustrator", "NLP models", "chatbot", "Node.js (TypeScript)"]
         },
         {
-            position: "Microsoft Office",
-            company: "Begin Learning",
-            period: "2021",
-            location: "Bangladesh",
-            description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
+            position: "Full Stack Developer",
+            company: "DXC Technology Philippines",
+            period: "Apr 2014 - Jun 2016",
+            location: "Cebu City, Philippines",
+            description: "Contributed to e-commerce systems covering frontend dashboards and backend services for order management, product catalog, and customer support workflows, including internal admin tools for order status updates via REST APIs. Supported full-stack features and improved database-driven product and pricing queries in an enterprise environment.",
             responsibilities: [
-                "Learning Microsoft Word, Excel, and PowerPoint",
-                "Creating documents and presentations",
-                "Understanding basic computer operations",
-                "Building foundational digital skills"
+                "Contributed to the development of backend services using Node.js and Express, integrating machine learning models into scalable applications.",
+                "Assisted in frontend development with React and Vue.js, ensuring smooth integration between UI and backend services.",
+                "Collaborated with senior engineers to integrate models into existing RESTful APIs and microservices.",
+                "Built and optimized data pipelines using Flask and Django, and deployed models in production using Docker and Kubernetes for scalable solutions.",
+                "Developed and optimized SQL queries for data extraction, working with MySQL and PostgreSQL databases.",
+                "Gained hands-on experience with CI/CD pipelines and Git for version control and collaboration."
             ],
-            technologies: ["MS Word", "MS Excel", "MS PowerPoint", "Computer Basics"]
+            technologies: ["CI/CD", "RESTful API", "Microservices"]
+        },
+        {
+            position: "Bachelor's of Computre Science",
+            company: "University of the Philippines",
+            period: "June 2010 - April 2014",
+            location: "Quezon City, Philippines",
+            description: "Completed a Bachelor’s Degree in Computer Science with a strong focus on software engineering fundamentals, full-stack web development, and database systems. Gained practical experience through academic projects and industry-aligned training programs simulating real-world software development environments.",
+            responsibilities: [
+                "Built academic full-stack web applications using Node.js, Express, and basic frontend frameworks.",
+                "Learned core backend concepts including RESTful APIs, authentication, and database design.",
+                "Developed database-driven applications using MySQL and PostgreSQL.",
+                "Participated in team-based software development projects using Agile-style workflows.",
+                "Gained exposure to version control (Git) and basic CI/CD concepts.",
+                "Worked on system design fundamentals and scalable application architecture principles."
+            ],
+            technologies: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MySQL", "PostgreSQL", "Git", "REST API", "Agile"]
         }
     ],
     projects: [
         {
             id: 1,
-            title: "Drishti",
-            category: "AI / LLM",
-            technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
-            image: "/images/drishti.png",
-            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali."
+            title: "Oracle Open Banking Platform",
+            category: "FinTech / AI / Cloud",
+            technologies: "Enterprise backend systems, AI-driven systems, cloud-based architecture, integration platforms",
+            image: "/images/banking.png",
+            description: "Enterprise Open Banking platform enabling secure, consent-based financial data sharing between core banking systems and third-party fintech applications. Enhanced platform intelligence with AI-assisted support capabilities to improve developer experience, troubleshooting efficiency, and operational visibility across banking integrations."
         },
         {
             id: 2,
-            title: "VoteChain",
-            category: "Blockchain",
-            technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask, Node.js",
-            image: "/images/votechain.png",
-            description: "A decentralized election system built on blockchain technology ensuring transparent, tamper-proof, and verifiable voting. Features smart contracts for vote integrity and real-time result tracking."
+            title: "COVID-19 Vaccine Logistics Platform",
+            category: "Healthcare / Data Systems / Cloud",
+            technologies: "Large-scale data systems, distributed infrastructure, cloud services, automation pipelines",
+            image: "/images/healthcare.png",
+            description: "National-scale healthcare logistics platform supporting real-time vaccine distribution tracking, inventory management, and supply chain coordination across clinics and pharmacies during the COVID-19 pandemic. Focused on high-volume data processing, system reliability, and mission-critical public health operations."
         },
         {
             id: 3,
-            title: "EIE - Earthquake Impact Estimator",
-            category: "IoT / Hardware",
-            technologies: "Arduino, C++, IoT Sensors, Python, ML, React",
-            image: "/images/eie.png",
-            description: "A practical circuit-based IoT system utilizing Arduino to predict earthquakes before they strike. Integrates hardware sensors for real-time seismic detection and impact estimation."
+            title: "RUSH – Digital Loyalty & SaaS Platform",
+            category: "SaaS / E-Commerce",
+            technologies: "Multi-tenant platforms, enterprise SaaS systems, scalable web applications, cloud infrastructure",
+            image: "/images/saas.png",
+            description: "Multi-tenant SaaS platform under Globe Telecom enabling corporate brands to launch digital storefronts, loyalty programs, and customer engagement systems. Supported enterprise subscription workflows and customer lifecycle management across multiple business clients."
         },
         {
             id: 4,
-            title: "GameKroy",
-            category: "Full Stack",
-            technologies: "React, Node.js, MongoDB, Express, Stripe, TailwindCSS",
-            image: "/images/gamekroy.png",
-            description: "A full-featured e-commerce platform for gaming products. Includes user authentication, product catalog, shopping cart, secure payments, order tracking, and admin dashboard."
-        },
-        {
-            id: 5,
-            title: "RedxChess",
-            category: "AI / Game Engine",
-            technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
-            image: "/images/redxchess.png",
-            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation."
-        },
-        {
-            id: 6,
-            title: "Floodhub",
-            category: "AI / ML",
-            technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
-            image: "/images/floodhub.png",
-            description: "A flood prediction model specifically designed for Bangladesh's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecasts and alerts."
-        },
-        {
-            id: 7,
-            title: "Phoenix",
-            category: "AI Assistant",
-            technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
-            image: "/images/phoenix.png",
-            description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience."
-        },
-        {
-            id: 8,
-            title: "HekTools",
-            category: "Security / Android",
-            technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
-            image: "/images/hektools.png",
-            description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes."
+            title: "Enterprise E-Commerce System (DXC)",
+            category: "E-Commerce / Full Stack Systems",
+            technologies: "Enterprise web systems, business applications, database-driven platforms, API-based systems",
+            image: "/images/ecommerce.png",
+            description: "Enterprise e-commerce system supporting product catalog management, order processing, and customer service workflows. Included internal admin dashboards for operational support and order lifecycle management in a large-scale business environment."
         }
     ],
     contact: {
-        email: "redoyanul1234@gmail.com",
-        github: "https://github.com/red1-for-hek",
-        linkedin: "https://linkedin.com/in/red1-for-hek",
-        twitter: "https://x.com/red_1_ul",
-        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
-        instagram: "https://www.instagram.com/red_1_ul"
+        email: "licardokenn@gmail.com",
+        github: "https://github.com/Kennlicardo",
+        linkedin: "https://www.linkedin.com/in/kenn-alain-licardo-3bb317405",
     },
     skills: {
         develop: {
-            title: "AI DEVELOPER",
-            description: "Building intelligent systems & AI solutions",
-            details: "Developing AI agents, chatbots, and machine learning models using Python, TensorFlow, and PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
-            tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
+            title: "Senior Software Engineer",
+            description: "Building scalable backend systems, APIs, and cloud-native applications",
+            details: "Developing microservices, RESTful APIs, and full-stack applications with a focus on system design, scalability, enterprise integration, and distributed architectures.",
+            tools: [
+                "Java", "Spring Boot", "Node.js", "TypeScript",
+                "JavaScript", "Express.js", "Flask", "Django",
+                "React", "Angular", "Next.js",
+                "REST APIs", "GraphQL", "gRPC",
+                "AWS", "Azure", "Docker", "Kubernetes",
+                "CI/CD", "Terraform"
+            ]
         },
         design: {
-            title: "FULL-STACK",
-            description: "Modern web development & scalable applications",
-            details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
-            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
+            title: "Agentic AI Engineer",
+            description: "Building intelligent systems, AI agents, and enterprise conversational AI solutions",
+            details: "Designing and deploying LLM-powered applications, conversational AI systems, and ML-driven solutions with expertise in NLP, intent recognition, RAG pipelines, and enterprise data integration.",
+            tools: [
+                "Python", "TensorFlow", "PyTorch", "Scikit-learn",
+                "Hugging Face", "LangChain", "RAG", "LLMs",
+                "Dialogflow CX", "Amazon Lex", "Vertex AI",
+                "Gemini", "AWS Bedrock", "NLP", "Vector Databases"
+            ]
         }
     }
 };
