@@ -131,7 +131,7 @@ export const config = {
         },
         {
             id: 3,
-            title: "RUSH – Digital Loyalty & SaaS Platform",
+            title: "Digital Loyalty & SaaS Platform",
             category: "SaaS / E-Commerce",
             technologies: "Multi-tenant platforms, enterprise SaaS systems, scalable web applications, cloud infrastructure",
             image: `${import.meta.env.BASE_URL}images/saas.png`,
@@ -139,7 +139,7 @@ export const config = {
         },
         {
             id: 4,
-            title: "Enterprise E-Commerce System (DXC)",
+            title: "Enterprise E-Commerce System",
             category: "E-Commerce / Full Stack Systems",
             technologies: "Enterprise web systems, business applications, database-driven platforms, API-based systems",
             image: `${import.meta.env.BASE_URL}images/ecommerce.png`,
