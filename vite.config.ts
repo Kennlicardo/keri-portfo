@@ -24,6 +24,7 @@ export default defineConfig({
       }
     }
   },
+  base: '/keri-portfo/',
   optimizeDeps: {
     include: ['three', 'gsap', 'lenis']
   }
