@@ -18,8 +18,9 @@ const setLighting = (scene: THREE.Scene) => {
   pointLight.castShadow = true;
   scene.add(pointLight);
 
+  // Fixed for GitHub Pages deployment
   new RGBELoader()
-    .setPath("/models/")
+    .setPath(`${import.meta.env.BASE_URL}models/`)
     .load("char_enviorment.hdr", function (texture) {
       texture.mapping = THREE.EquirectangularReflectionMapping;
       scene.environment = texture;
@@ -34,19 +35,23 @@ const setLighting = (scene: THREE.Scene) => {
       pointLight.intensity = 0;
     }
   }
+
   const duration = 2;
   const ease = "power2.inOut";
+
   function turnOnLights() {
     gsap.to(scene, {
       environmentIntensity: 0.64,
       duration: duration,
       ease: ease,
     });
+
     gsap.to(directionalLight, {
       intensity: 1,
       duration: duration,
       ease: ease,
     });
+
     gsap.to(".character-rim", {
       y: "55%",
       opacity: 1,
