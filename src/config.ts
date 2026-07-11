@@ -118,7 +118,7 @@ export const config = {
             title: "Oracle Open Banking Platform",
             category: "FinTech / AI / Cloud",
             technologies: "Enterprise backend systems, AI-driven systems, cloud-based architecture, integration platforms",
-            image: "${import.meta.env.BASE_URL}images/banking.png",
+            image: `${import.meta.env.BASE_URL}images/banking.png`,
             description: "Enterprise Open Banking platform enabling secure, consent-based financial data sharing between core banking systems and third-party fintech applications. Enhanced platform intelligence with AI-assisted support capabilities to improve developer experience, troubleshooting efficiency, and operational visibility across banking integrations."
         },
         {
@@ -126,7 +126,7 @@ export const config = {
             title: "COVID-19 Vaccine Logistics Platform",
             category: "Healthcare / Data Systems / Cloud",
             technologies: "Large-scale data systems, distributed infrastructure, cloud services, automation pipelines",
-            image: "${import.meta.env.BASE_URL}images/healthcare.png",
+            image: `${import.meta.env.BASE_URL}images/healthcare.png`,
             description: "National-scale healthcare logistics platform supporting real-time vaccine distribution tracking, inventory management, and supply chain coordination across clinics and pharmacies during the COVID-19 pandemic. Focused on high-volume data processing, system reliability, and mission-critical public health operations."
         },
         {
@@ -134,7 +134,7 @@ export const config = {
             title: "RUSH – Digital Loyalty & SaaS Platform",
             category: "SaaS / E-Commerce",
             technologies: "Multi-tenant platforms, enterprise SaaS systems, scalable web applications, cloud infrastructure",
-            image: "${import.meta.env.BASE_URL}images/saas.png",
+            image: `${import.meta.env.BASE_URL}images/saas.png`,
             description: "Multi-tenant SaaS platform under Globe Telecom enabling corporate brands to launch digital storefronts, loyalty programs, and customer engagement systems. Supported enterprise subscription workflows and customer lifecycle management across multiple business clients."
         },
         {
@@ -142,7 +142,7 @@ export const config = {
             title: "Enterprise E-Commerce System (DXC)",
             category: "E-Commerce / Full Stack Systems",
             technologies: "Enterprise web systems, business applications, database-driven platforms, API-based systems",
-            image: "${import.meta.env.BASE_URL}images/ecommerce.png",
+            image: `${import.meta.env.BASE_URL}images/ecommerce.png`,
             description: "Enterprise e-commerce system supporting product catalog management, order processing, and customer service workflows. Included internal admin dashboards for operational support and order lifecycle management in a large-scale business environment."
         }
     ],
